@@ -1,0 +1,3 @@
+[submodule "findutils"]
+	path = findutils
+	url = git://git.sv.gnu.org/findutils
